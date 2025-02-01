@@ -1,3 +1,4 @@
 reference/
 anaconda_projects/
 .ipynb_checkpoints/
+test*.jl
